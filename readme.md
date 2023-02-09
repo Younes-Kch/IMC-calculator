@@ -1,7 +1,7 @@
 # **Calcul de l'IMC**
 
-###Langages utilisés
----------------------
+## Langages utilisés :
+
 
 - Vanilla Javascript 
 
