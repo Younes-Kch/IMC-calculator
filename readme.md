@@ -1,4 +1,8 @@
-### Calcul de l'IMC 
+# **Calcul de l'IMC**
 
-Vanilla Javascript 
-Html/Css
+###Langages utilisés
+---------------------
+
+- Vanilla Javascript 
+
+- Html/Css
